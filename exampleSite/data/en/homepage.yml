@@ -41,21 +41,16 @@ experience:
   enable: true
   title: EXPERIENCE
   experience_list:
-  - name: Web Developer
-    company: Fiverr.com
-    duration: 2016-2018
-    content: I work with HTML, CSS, and Javascript to create websites and web applications
-      like Personal, Business, Blog, E-comerches etc.
+  - name: Monitoring and Evaluation Secretariate
+    company: Ministry of Devolution and Planning
+    duration: Nov 2015 and Nov 2016
+    content: I helped at the information desk by interacting with delegates and guests.
+      I designed a few brochures, set up presentation desk and did presentations for
+      guest speakers.
   - name: Graphic Designer
     company: Fiverr.com
-    duration: 2015-2018
-    content: Graphic design is art with a purpose. I love illustration, so logo desing
-      is my favorite work. But i can do many things with graphics.
-  - name: Database Manager
-    company: Polytechnic
-    duration: 2014-2018
-    content: Database management is among the fundamental processes in the software
-      field of computing. I know MS Access very well.
+    duration: 2017-2020
+    content: I have created business cards, brochures, and posters
 skill:
   enable: true
   title: SKILL
