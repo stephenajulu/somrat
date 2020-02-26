@@ -126,7 +126,7 @@ service:
   enable: true
   title: SERVICES
   service_list:
-  - name: Web Development
+  - name: Web Development and Design
     image: images/icons/web-development.png
   - name: Graphic Design
     image: images/icons/graphic-design.png
