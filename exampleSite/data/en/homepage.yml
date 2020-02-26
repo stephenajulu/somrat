@@ -63,6 +63,8 @@ skill:
   skill_list:
   - name: Web Development and Design
     parcentage: 88%
+  - name: Cybersecurity
+    parcentage: 80%
   - name: Graphic Design
     parcentage: 73%
   - name: Wordpress
