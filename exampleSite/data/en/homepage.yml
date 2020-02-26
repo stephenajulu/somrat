@@ -41,6 +41,17 @@ experience:
   enable: true
   title: EXPERIENCE
   experience_list:
+  - name: Article Writing
+    company: Ajulu's Thoughts
+    duration: August 2016 Till Date
+    content: 'I have been writing Technology and Cybersecurity Articles on my blog
+      since 2016 in an effort to increase cybersecurity awareness and teach my readers.
+      Link to the blog: https://ajulusthoughts.wordpress.com'
+  - name: Guest Article Writning
+    company: Techknow Africa
+    duration: 2019 Till Date
+    content: 'I have been writing Technology, Cybersecurity and Ethical Hacking articles
+      on Techknow since around September 2019. Link can be found here: https://techknow.co.ke'
   - name: JAMstack Web Development 1
     company: Me
     duration: 2016, 2017, 2018, 2019, 2020
