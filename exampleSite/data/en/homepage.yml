@@ -61,14 +61,12 @@ skill:
   enable: true
   title: SKILL
   skill_list:
-  - name: Web Development
-    parcentage: 98%
+  - name: Web Development and Design
+    parcentage: 88%
   - name: Graphic Design
-    parcentage: 85%
-  - name: Database Management
-    parcentage: 90%
+    parcentage: 73%
   - name: Wordpress
-    parcentage: 70%
+    parcentage: 60%
 service:
   enable: true
   title: SERVICES
