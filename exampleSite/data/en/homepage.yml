@@ -41,6 +41,11 @@ experience:
   enable: true
   title: EXPERIENCE
   experience_list:
+  - name: I.T Consultant
+    company: Gogan Investment Company ltd
+    duration: 2017-2019
+    content: 'I was the Information Technology consultant of Gogan Investment Company
+      ltd. Advised them on activities that required I.C.T. '
   - name: Graphic Designer
     company: Fiverr.com
     duration: 2017-2020
