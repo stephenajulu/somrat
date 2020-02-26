@@ -41,16 +41,17 @@ experience:
   enable: true
   title: EXPERIENCE
   experience_list:
+  - name: Graphic Designer
+    company: Fiverr.com
+    duration: 2017-2020
+    content: I have created business cards, brochures, and posters
   - name: Monitoring and Evaluation Secretariate
     company: Ministry of Devolution and Planning
     duration: Nov 2015 and Nov 2016
     content: I helped at the information desk by interacting with delegates and guests.
       I designed a few brochures, set up presentation desk and did presentations for
-      guest speakers.
-  - name: Graphic Designer
-    company: Fiverr.com
-    duration: 2017-2020
-    content: I have created business cards, brochures, and posters
+      guest speakers. I was also a research assistant/data clerk. I did data collection,
+      entry and collation for Gogan Investment Company Limited.
 skill:
   enable: true
   title: SKILL
