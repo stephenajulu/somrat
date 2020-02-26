@@ -41,6 +41,17 @@ experience:
   enable: true
   title: EXPERIENCE
   experience_list:
+  - name: JAMstack Web Development 1
+    company: Me
+    duration: 2016, 2017, 2018, 2019, 2020
+    content: I have been redesingning my personal website since my first website back
+      in 2016. This is my 5th iteration.
+  - name: JAMstack Web Development 2
+    company: The Food For Life Organization
+    duration: September 2019
+    content: I created a mini store website for an organization that had developed
+      a formula to end malnutrition and supported their cause. The screenshot will
+      be down below in the portfolio section.
   - name: I.T Consultant
     company: Gogan Investment Company ltd
     duration: 2017-2019
@@ -53,9 +64,20 @@ experience:
       I have had 3 clients who wanted Cybersecurity consultation. They were pleased.
       Their organization was more secure and have kept coming to me for advice.
   - name: Graphic Designer
-    company: Fiverr.com
+    company: Home1 Inspections
     duration: 2017-2020
-    content: I have created business cards, brochures, and posters
+    content: I have designed multiple business cards for a home inspection company
+      in the USA. The designs will be down below in the portfolio section.
+  - name: Logo Design 1
+    company: Klean Queen
+    duration: April 2018
+    content: I designed a logo for a cleaning company. The design will be down below
+      in the portfolio section.
+  - name: Logo Design 2
+    company: PrimeTech Solutions
+    duration: June 2018
+    content: I designed multiple logos for PrimeTech Solutions. The designs will be
+      down below in the portfolio section.
   - name: Monitoring and Evaluation Secretariate
     company: Ministry of Devolution and Planning
     duration: Nov 2015 and Nov 2016
