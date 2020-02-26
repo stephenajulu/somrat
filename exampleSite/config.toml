@@ -11,7 +11,7 @@ languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright &copy; Stephen Odero Ajulu Otieno 2020"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
