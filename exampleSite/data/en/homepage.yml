@@ -61,14 +61,28 @@ skill:
   enable: true
   title: SKILL
   skill_list:
+  - name: Microsoft Office
+    parcentage: 85%
   - name: Web Development and Design
     parcentage: 88%
   - name: Cybersecurity
     parcentage: 80%
   - name: Graphic Design
     parcentage: 73%
+  - name: Search Engine Optimization
+    parcentage: 80%
+  - name: Ethical Hacking
+    parcentage: 65%
   - name: Wordpress
     parcentage: 60%
+  - name: JAMstack, Headless CMS & Progressive Web Apps
+    parcentage: 75%
+  - name: Troubleshooting, Maintenance and Repair
+    parcentage: 50%
+  - name: Strategical and Analytical Thinking
+    parcentage: 90%
+  - name: Data Entry and Research
+    parcentage: 65%
 service:
   enable: true
   title: SERVICES
