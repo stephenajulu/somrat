@@ -4,7 +4,7 @@ theme = "somrat"
 title = "Stephen Ajulu | Personal Website and Portfolio"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright &copy; Stephen Odero Ajulu Otieno 2020"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
