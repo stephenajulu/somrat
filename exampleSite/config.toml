@@ -1,7 +1,7 @@
 baseURL = "https://suspicious-meitner-24a518.netlify.com/"
 disableLanguages = []
 theme = "somrat"
-title = "Somrat | Hugo Portfolio Template"
+title = "Stephen Ajulu's Portfolio and Website"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
@@ -41,9 +41,9 @@ URL = "#contact"
 name = "Contact"
 weight = 6
 [params]
-author = "somrat"
+author = "Stephen Ajulu"
 contact_form_action = ""
-description = "This is meta description"
+description = "This is Stephen Ajulu's Personal Website and Portfolio"
 google_analitycs_id = ""
 logo_dark = "images/logo-dark.png"
 logo_light = "images/logo.png"
@@ -84,16 +84,34 @@ enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
 icon = "fa-facebook-f"
-link = "https://www.facebook.com/somrat.mac"
+link = "https://www.facebook.com/stephenajulu"
 [[params.social]]
 icon = "fa-twitter"
-link = "https://twitter.com/somrat_37"
+link = "https://twitter.com/stephenajulu"
 [[params.social]]
 icon = "fa-instagram"
-link = "https://www.instagram.com/somrat_sorkar/"
+link = "https://www.instagram.com/stephenajulu"
 [[params.social]]
 icon = "fa-github"
-link = "https://github.com/Somrat37"
+link = "https://github.com/stephenajulu"
 [[params.social]]
 icon = "fa-linkedin"
-link = "https://www.linkedin.com/in/somrat-sorkar-872581158/"
+link = "https://www.linkedin.com/in/stephenajulu"
+[[params.social]]
+icon = "fa-youtube"
+link = "https://www.youtube.com/channel/UC043ZXL-t3yqtgcIxJmkHuA?view_as=subscriber"
+[[params.social]]
+icon = "fa-medium-m"
+link = "https://medium.com/@stephenajulu"
+[[params.social]]
+icon = "fa-dev"
+link = "https://dev.to/stephenajulu"
+[[params.social]]
+icon = "fa-podcast"
+link = "https://anchor.fm/stephenajulu"
+[[params.social]]
+icon = "fa-dribbble"
+link = "https://dribbble.com/stephenajulu"
+[[params.social]]
+icon = "fa-rss"
+link = "https://ajulusthoughts.wordpress.com/feed"
