@@ -19,8 +19,8 @@ hero:
 fullscreen_nav:
   enable: true
   bg_image: images/backgrounds/full-nav-bg.jpg
-  first_name: MacGyver
-  last_name: SOMRAT
+  first_name: Stephen
+  last_name: Ajulu
 about:
   enable: true
   image: images/backgrounds/portrait.jpg
