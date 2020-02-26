@@ -1,7 +1,7 @@
 baseURL = "https://suspicious-meitner-24a518.netlify.com/"
 disableLanguages = []
 theme = "somrat"
-title = "Stephen Ajulu's Portfolio and Website"
+title = "Stephen Ajulu | Personal Website and Portfolio"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
