@@ -46,6 +46,12 @@ experience:
     duration: 2017-2019
     content: 'I was the Information Technology consultant of Gogan Investment Company
       ltd. Advised them on activities that required I.C.T. '
+  - name: Security Consultant
+    company: OwlSec Technologies
+    duration: 2016-2020
+    content: I am currently the Security Consultant and Founder of OwlSec Technologies.
+      I have had 3 clients who wanted Cybersecurity consultation. They were pleased.
+      Their organization was more secure and have kept coming to me for advice.
   - name: Graphic Designer
     company: Fiverr.com
     duration: 2017-2020
@@ -105,7 +111,7 @@ call_to_action:
   title: NEED A SERVICE?
   button:
     enable: true
-    label: SAY HELLO!
+    label: TALK TO ME!
     link: "#contact"
 portfolio:
   enable: true
@@ -196,18 +202,15 @@ testimonial:
 funfacts:
   enable: true
   funfacts_list:
-  - name: HANDS TO WORK
-    image: images/icons/works.png
-    count: "100"
-  - name: HAPPY CLIENT
+  - name: HAPPY CLIENTS
     image: images/icons/happy.png
-    count: "200"
-  - name: FINISHED PROJECT
+    count: "87"
+  - name: FINISHED PROJECTS
     image: images/icons/project.png
-    count: "250"
+    count: "30"
   - name: CUPS OF COFFEE
     image: images/icons/coffee.png
-    count: "150"
+    count: "90"
 contact:
   enable: true
   title: SAY HELLO!
