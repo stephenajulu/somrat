@@ -45,8 +45,8 @@ author = "Stephen Ajulu"
 contact_form_action = ""
 description = "This is Stephen Ajulu's Personal Website and Portfolio"
 google_analitycs_id = ""
-logo_dark = "images/favicon.png"
-logo_light = "images/favicon.png"
+logo_dark = "images/favicon.ico"
+logo_light = "images/favicon.ico"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
