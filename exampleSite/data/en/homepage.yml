@@ -37,7 +37,7 @@ about:
   button:
     enable: true
     label: DOWNLOAD MY CV
-    link: "#"
+    link: exampleSite/static/images/resume/Stephen Ajulu CV - Upto Date 13 Oct.docx
 experience:
   enable: true
   title: EXPERIENCE
