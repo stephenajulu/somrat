@@ -117,12 +117,18 @@ skill:
     parcentage: 60%
   - name: JAMstack, Headless CMS & Progressive Web Apps
     parcentage: 75%
-  - name: Troubleshooting, Maintenance and Repair
+  - name: Digital Marketing
     parcentage: 50%
+  - name: Social Media Management
+    parcentage: 50%
+  - name: Article Writing and Transcribing
+    parcentage: 97%
   - name: Strategical and Analytical Thinking
     parcentage: 90%
   - name: Data Entry and Research
     parcentage: 65%
+  - name: Troubleshooting, Maintenance and Repair
+    parcentage: 50%
 service:
   enable: true
   title: SERVICES
