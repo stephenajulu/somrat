@@ -131,6 +131,8 @@ skill:
     parcentage: 50%
   - name: I.C.T Help Desk
     parcentage: 70%
+  - name: Physical Security Auditing and Analysis
+    parcentage: 85%
 service:
   enable: true
   title: SERVICES
