@@ -12,7 +12,6 @@ hero:
   - images/slider/sa2.jpg
   - images/slider/sa1.png
   - images/slider/slider-1.jpg
-  - images/slider/slider-3.jpg
   button:
     enable: true
     label: HIRE ME
