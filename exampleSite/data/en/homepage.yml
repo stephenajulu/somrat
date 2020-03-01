@@ -147,6 +147,10 @@ service:
     image: images/icons/pen.png
   - name: Ethical Hacking(Pentesting)
     image: images/icons/hacking.png
+  - name: Social Media Management
+    image: images/icons/management.png
+  - name: Setup, Troubleshooting, Maintenance and Repair
+    image: images/icons/maintenance.png
 call_to_action:
   enable: true
   bg_image: images/backgrounds/need-service.jpg
