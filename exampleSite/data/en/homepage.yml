@@ -18,7 +18,7 @@ hero:
     link: "#contact"
 fullscreen_nav:
   enable: true
-  bg_image: images/backgrounds/full-nav-bg.jpg
+  bg_image: images/slider/sa2.jpg
   first_name: Stephen
   last_name: Ajulu
 about:
