@@ -1,5 +1,5 @@
 baseURL = "https://suspicious-meitner-24a518.netlify.com/"
-disableLanguages = []
+disableLanguages = ["fr"]
 theme = "somrat"
 title = "Stephen Ajulu | Personal Website and Portfolio"
 [Languages.en]
