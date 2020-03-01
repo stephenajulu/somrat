@@ -233,13 +233,13 @@ funfacts:
   funfacts_list:
   - name: HAPPY CLIENTS
     image: images/icons/happy.png
-    count: "87"
+    count: "12"
   - name: FINISHED PROJECTS
     image: images/icons/project.png
-    count: "30"
+    count: "17"
   - name: CUPS OF COFFEE
     image: images/icons/coffee.png
-    count: "90"
+    count: "8"
 contact:
   enable: true
   title: TALK TO ME!

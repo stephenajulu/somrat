@@ -101,12 +101,6 @@ link = "https://www.linkedin.com/in/stephenajulu"
 icon = "fa-youtube"
 link = "https://www.youtube.com/channel/UC043ZXL-t3yqtgcIxJmkHuA?view_as=subscriber"
 [[params.social]]
-icon = "fa-medium-m"
-link = "https://medium.com/@stephenajulu"
-[[params.social]]
-icon = "fa-dev"
-link = "https://dev.to/stephenajulu"
-[[params.social]]
 icon = "fa-podcast"
 link = "https://anchor.fm/stephenajulu"
 [[params.social]]
