@@ -23,7 +23,7 @@ fullscreen_nav:
   last_name: Ajulu
 about:
   enable: true
-  image: images/backgrounds/portrait.jpg
+  image: images/backgrounds/author.jpg
   title: KNOW MORE <br> ABOUT ME
   content: "It's Ajulu. I am a Front End Web Developer, Junior Security Consultant,
     Graphic Designer, Novice Ethical Hacker, Content Creator and Researcher.\n<br>\nI
@@ -137,7 +137,7 @@ service:
 call_to_action:
   enable: true
   bg_image: images/backgrounds/need-service.jpg
-  title: NEED A SERVICE?
+  title: Need a Service or Want to Hire Me?
   button:
     enable: true
     label: TALK TO ME!
