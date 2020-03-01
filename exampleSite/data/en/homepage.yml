@@ -129,6 +129,8 @@ skill:
     parcentage: 50%
   - name: Troubleshooting, Maintenance and Repair
     parcentage: 50%
+  - name: I.C.T Help Desk
+    parcentage: 70%
 service:
   enable: true
   title: SERVICES
