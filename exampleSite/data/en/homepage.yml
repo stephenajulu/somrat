@@ -135,6 +135,18 @@ service:
     image: images/icons/marketing.png
   - name: Mobile App Development
     image: images/icons/mobile-app.png
+  - name: Search Engine Optimization and Manipulation
+    image: images/icons/google-web-search.png
+  - name: Cybersecurity
+    image: images/icons/security-configuration.png
+  - name: Microsoft Office
+    image: images/icons/office-365.png
+  - name: I.T and Cybersecurity Consultation
+    image: images/icons/consultation.png
+  - name: Article and Post Writing
+    image: images/icons/pen.png
+  - name: Ethical Hacking(Pentesting)
+    image: images/icons/hacking.png
 call_to_action:
   enable: true
   bg_image: images/backgrounds/need-service.jpg
