@@ -4,7 +4,7 @@ theme = "somrat"
 title = "Stephen Ajulu | Personal Website and Portfolio"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright Stephen Odero Ajulu Otieno 2020"
+copyright = "Copyright Stephen Ajulu 2020"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
