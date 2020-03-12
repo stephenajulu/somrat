@@ -17,29 +17,37 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "#home"
-name = "Home"
-weight = 1
+name = "Blog"
+url = "https://ajulusthoughts.wordpress.com"
+weight = 6
 [[menu.main]]
-URL = "#about"
-name = "About me"
-weight = 2
+name = "Podcast"
+url = "https://anchor.fm/stephenajulu"
+weight = 5
 [[menu.main]]
-URL = "#service"
-name = "Service"
-weight = 3
+URL = "#contact"
+name = "Contact"
+weight = 8
+[[menu.main]]
+URL = "#testimonial"
+name = "Testimonial"
+weight = 7
 [[menu.main]]
 URL = "#portfolio"
 name = "Portfolio"
 weight = 4
 [[menu.main]]
-URL = "#testimonial"
-name = "Testimonial"
-weight = 5
+URL = "#service"
+name = "Service"
+weight = 3
 [[menu.main]]
-URL = "#contact"
-name = "Contact"
-weight = 6
+URL = "#about"
+name = "About me"
+weight = 2
+[[menu.main]]
+URL = "#home"
+name = "Home"
+weight = 1
 [params]
 author = "Stephen Ajulu"
 contact_form_action = ""
