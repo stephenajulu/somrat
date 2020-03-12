@@ -163,7 +163,7 @@ service:
     image: images/icons/maintenance.png
 call_to_action:
   enable: true
-  bg_image: images/backgrounds/need-service.jpg
+  bg_image: images/backgrounds/need-a-service.png
   title: Need a Service or Want to Hire Me?
   button:
     enable: true
