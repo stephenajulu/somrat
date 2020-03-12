@@ -53,8 +53,8 @@ author = "Stephen Ajulu"
 contact_form_action = ""
 description = "This is Stephen Ajulu's Personal Website and Portfolio"
 google_analitycs_id = ""
-logo_dark = "images/logo-dark.png"
-logo_light = "images/logo.png"
+logo_dark = ""
+logo_light = ""
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
